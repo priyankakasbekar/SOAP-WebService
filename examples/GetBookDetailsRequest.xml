@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetBookDetailsRequest xmlns="http://localhost/books" 
+xsi:schemaLocation="http://localhost/books book_details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id>
+</GetBookDetailsRequest>

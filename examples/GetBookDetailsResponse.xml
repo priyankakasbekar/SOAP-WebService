@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetBookDetailsResponse xmlns="http://localhost/books" xsi:schemaLocation="http://localhost/books book_details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BookDetails>
+		<id>12345</id>
+		<name>Book1</name>
+		<author>Author1</author>
+	</BookDetails>
+</GetBookDetailsResponse>
